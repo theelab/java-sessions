@@ -13,4 +13,9 @@ public class Cat {
 
 
     //Behavior
+
+    //Eating
+    //Sleeping
+    //Playing
+
 }
